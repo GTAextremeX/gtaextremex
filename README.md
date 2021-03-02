@@ -10,7 +10,7 @@
 - ##### Since 2020-21 I've developed many games mod. 
 - ##### I have Also Developed Small Desktop And An Android Application. 
 - ##### I Have Created 3D Textures On Blender And ZModeler For Games. 
-- ##### I'am Also Trying To Developing Games
+- ##### I Have Also Started To Develope Games On Unity And BuildBox. 
 
 ## Language I Used
 * `C#` 
@@ -22,7 +22,7 @@
 ## What I'm Focusing On 👨‍💻
 
 * Currently I am a student and improving my Python skills.
-* I I'am Also Trying My Best For Creating Modern And User Friendly Interfaces. 
+* I'am Also Trying My Best For Creating Modern And User Friendly Interfaces. 
 
 ### Follow Me On Social 🌎
 #### On Twitter
