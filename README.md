@@ -18,4 +18,4 @@ Currently I am a student and improving my Python skills.
 
 ![GTA extremeX's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtaextremex&show_icons=true&theme=vision-friendly-dark) 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gtaextremex&repo=codegeneratorbygtaextremex)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gtaextremex&repo=codegeneratorbygtaextremex) -->
