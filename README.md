@@ -11,8 +11,10 @@ Currently I am a student and improving my Python skills.
 
 ### 🌎 Find Me Elsewhere 🌎
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ExtremexGta)](https://twitter.com/ExtremexGta) ![Twitter Followers](https://img.shields.io/twitter/follow/ExtremexGta?style=social)
+#### On Twitter
+![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ExtremexGta) ![Twitter Followers](https://img.shields.io/twitter/follow/ExtremexGta?style=social)
 
+#### On GitHub
 ![GitHub Follower](https://img.shields.io/github/followers/gtaextremex?style=social)
 ![GitHub Likes](https://img.shields.io/github/stars/gtaextremex?style=social)
 
