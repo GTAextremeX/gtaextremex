@@ -16,6 +16,8 @@ Currently I am a student and improving my Python skills.
 ![GitHub Likes](https://img.shields.io/github/stars/gtaextremex?style=social)
 ### My Stats
 
-![GTA extremeX's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtaextremex&show_icons=true&theme=vision-friendly-dark) 
+![GTA extremeX's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtaextremex&show_icons=true&theme=vision-friendly-dark)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gtaextremex&repo=codegeneratorbygtaextremex) -->
