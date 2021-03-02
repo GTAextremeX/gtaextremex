@@ -1,9 +1,12 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Welcome To [GTA extremeX](https://furioussaurabh007.wixsite.com/gtaextremex)!
 
 ## 🤘About Me🤘
-I am a `C#` and `Python` based developer with `UI/UX` designing skills.
+* **Name** :- GTA extremeX
+* **Age** :- 15
+* **Hobby** :- ❤ To Learn Coding And Creativity
+* **Short Description** :- I am a `C#` and `Python` based developer with `UI/UX` designing skills.
 
-Since 2020 I've developed many games mods and also creating modern and user friendly interfaces.
+## What I Since 2020 I've developed many games mods and also creating modern and user friendly interfaces.
 
 ### 👨‍💻 What I'm Focusing On 👨‍💻
 
