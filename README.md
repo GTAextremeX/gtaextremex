@@ -15,4 +15,5 @@ Currently I am a student and improving my Python skills.
 ![GitHub Follower](https://img.shields.io/github/followers/gtaextremex?style=social)
 ![GitHub Likes](https://img.shields.io/github/stars/gtaextremex?style=social)
 ### My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtaextremex)](https://github.com/gtaextremex/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
