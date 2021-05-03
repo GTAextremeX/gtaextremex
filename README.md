@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Welcome To [GTA extremeX](https://furioussaurabh007.wixsite.com/gtaextremex)!
 
 ## About Me🤘
-* **Name** :- Saurabh Yadav
-* **Age** :- 15
+* **Name** :- GTA extremeX
+* **Age** :- 16
 * **Hobby** :- ❤ To Learn Coding And Creating 3D Textures
 * **Short Description** :- I am a `C#` and `Python` based developer with `UI/UX` designing skills.
 
